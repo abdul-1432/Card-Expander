@@ -1,6 +1,9 @@
 # CSS Card Expander
 
-![CSS Card Expander Preview](https://example.com/path/to/preview-image.png)
+![1](https://github.com/abdul-1432/Card-Expander/assets/124916666/c1609cc1-6d4d-4440-9d53-c296d129f02f)
+
+![2](https://github.com/abdul-1432/Card-Expander/assets/124916666/aa22203b-43d3-4edd-bf1b-9aaace7f2930)
+
 
 The CSS Card Expander is a simple and customizable card component built with HTML, CSS, and Javascript. It allows you to create expandable cards that reveal more content when clicked, providing a sleek and intuitive user experience for displaying additional information on your web page.
 
