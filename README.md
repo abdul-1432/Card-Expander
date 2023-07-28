@@ -16,13 +16,13 @@ The CSS Card Expander is a simple and customizable card component built with HTM
 
 ## Preview
 
-![CSS Card Expander Preview](https://codepen.io/abdul-1432/pen/xxQQELy)
+[CSS Card Expander Preview](https://codepen.io/abdul-1432/pen/xxQQELy)
 
 ## How to Use
 
 1. Include the required CSS and Javascript files in your HTML:
 
-```html
+```HTML
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,7 +37,7 @@ The CSS Card Expander is a simple and customizable card component built with HTM
 
 2. Create the HTML structure for the card:
 
-```html
+```HTML
 <div class="card-expander">
     <div class="card-header">
         <!-- Card header content (visible all the time) -->
@@ -93,6 +93,6 @@ Thanks to the open-source community for providing valuable resources and inspira
 
 ## Contact
 
-If you have any questions or need further assistance, you can reach me at [your.email@example.com](mailto:your.email@example.com) or through the GitHub repository.
+If you have any questions or need further assistance, you can reach me at [gafoor.mngr@gmail.com](mailto:gafoor.mngr@gmail.com) or through the GitHub repository.
 
 Happy coding!
