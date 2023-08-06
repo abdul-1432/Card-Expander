@@ -16,7 +16,7 @@ The CSS Card Expander is a simple and customizable card component built with HTM
 
 ## Preview
 
-you [CSS Card Expander Preview](https://codepen.io/abdul-1432/pen/xxQQELy)
+You can [CSS Card Expander Preview](https://codepen.io/abdul-1432/pen/xxQQELy)
 
 ## How to Use
 
